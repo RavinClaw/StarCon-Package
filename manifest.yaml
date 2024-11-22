@@ -1,0 +1,7 @@
+version: 1
+name: "StarCon Package"
+description: "StarCon Package Here"
+authors: ["RavinClaw"]
+dependencies: {
+  "starcon_system": 0.1
+}
